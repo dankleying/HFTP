@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>673188547947-2og7jhlfcjgtd7tng7v4ii0klufsgt6n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.673188547947-2og7jhlfcjgtd7tng7v4ii0klufsgt6n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWnKgx-5m-Rio2a6nNhsEb23VoZApeW5s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>673188547947</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ece564.HFTP</string>
+	<key>PROJECT_ID</key>
+	<string>hftp-1a87e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hftp-1a87e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:673188547947:ios:ea73c7bcc6cee85447902e</string>
+	<key>DATABASE_URL</key>
+	<string>https://hftp-1a87e.firebaseio.com</string>
+</dict>
+</plist>
