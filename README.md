@@ -1,4 +1,6 @@
-# HFTP -- ECE564 Project
+# HFTP -- Duke ECE564 Project
+
+Author: Nibo Ying, Nan Ni, Kai Wang, Zihui Zheng
 
 ## **Overview**
 - Hftp App: **Track all information of conference**
