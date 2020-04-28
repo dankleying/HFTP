@@ -5,7 +5,7 @@ Author: Nibo Ying, Nan Ni, Kai Wang, Zihui Zheng
 ## **Overview**
 - Hftp App: **Track all information of conference**
 - Hftp: An organization that holds a series of conferences for the continuing education of hospitality professionals
-- Demo: [See Youtube Demo Video](https://www.youtube.com/watch?v=i_pHo79K1eU)
+- Demo: To protect customer data, please email niboying02@gmail.com for a video demo
 
 
 ## **Basic Functions**
